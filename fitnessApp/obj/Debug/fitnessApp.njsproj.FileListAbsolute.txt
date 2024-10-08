@@ -1,0 +1,3 @@
+C:\Users\Gavin\OneDrive\Desktop\Code\Projects\fitnessApp\fitnessApp\obj\Debug\fitnessApp.njsprojAssemblyReference.cache
+C:\Users\Gavin\OneDrive\Desktop\Code\Projects\fitnessApp\fitnessApp\obj\Debug\fitnessApp.njsproj.CoreCompileInputs.cache
+C:\Users\Gavin\OneDrive\Desktop\Code\Projects\fitnessApp\fitnessApp\bin\Microsoft.NodejsTools.WebRole.dll

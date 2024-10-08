@@ -1,0 +1,9 @@
+{
+  "name": "fitness-app",
+  "version": "0.0.0",
+  "description": "fitnessApp",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
